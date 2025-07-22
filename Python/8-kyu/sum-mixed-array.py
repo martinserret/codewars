@@ -12,5 +12,5 @@ def sum_mix(arr):
   return sum(int(element) for element in arr)
 
 # Other solution
-def sum_mix(arr):
+def sum_mix_other(arr):
     return sum(map(int, arr))
